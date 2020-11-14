@@ -12,7 +12,7 @@ Verification of weather and climate forecasts.
     * - docs
       - |docs|
     * - tests
-      - |requires| |codecov|
+      - |ci| |requires| |codecov|
     * - package
       - |conda| |pypi|
     * - license
@@ -25,6 +25,8 @@ Verification of weather and climate forecasts.
 .. |docs| image:: https://img.shields.io/readthedocs/climpred/stable.svg?style=flat
     :target: https://climpred.readthedocs.io/en/stable/?badge=stable
     :alt: Documentation Status
+    
+.. |ci|  image:: https://github.com/pangeo-data/climpred/workflows/climpred%20testing/badge.svg
 
 .. |requires| image:: https://requires.io/github/pangeo-data/climpred/requirements.svg?branch=master
      :target: https://requires.io/github/pangeo-data/climpred/requirements/?branch=master
